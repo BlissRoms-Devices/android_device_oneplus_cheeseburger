@@ -16,3 +16,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/bliss_cheeseburger.mk
+
+COMMON_LUNCH_CHOICES := \
+    bliss_cheeseburger-user \
+    bliss_cheeseburger-userdebug \
+    bliss_cheeseburger-eng
