@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_cheeseburger.mk
+    $(LOCAL_DIR)/bliss_cheeseburger.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_cheeseburger-user \
-    arrow_cheeseburger-userdebug \
-    arrow_cheeseburger-eng
+    bliss_cheeseburger-user \
+    bliss_cheeseburger-userdebug \
+    bliss_cheeseburger-eng
